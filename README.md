@@ -35,3 +35,17 @@
 ### vocab list
 - id
 - vocabulary object
+
+example:
+{owner : May,
+ listId : 0,
+ listName : fruits,
+ numVocabs: 2,
+ public : true,
+ contents : [{vocabId : 0,
+			  content : apple,
+			  translation : manzana},
+			 {vocabId : 2,
+			  content : peach,
+			  translation : melocoton}]
+}
